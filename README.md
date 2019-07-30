@@ -3,7 +3,7 @@
 This is a Weather App developed with python that inform us about climate in a city. 
 This app only can be runed in console.
 
-<p align="center"><img src="https://github.com/Saul-Lara/Weather-app/blob/master/image.jpg"/></p>
+<p align="center"><img src="https://github.com/Saul-Lara/Weather-app/blob/master/image.JPG"/></p>
 
 ## Built With 🛠️
 ```
